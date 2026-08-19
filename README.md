@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Pablo García 👋
 
-<!--
-**pggdh031198/pggdh031198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧬 **Biologist | PhD in Plant Biology | Bioinformatics & Computational Biology**
 
-Here are some ideas to get you started:
+I am a researcher interested in understanding how plants integrate **environmental stress and immune responses**, combining experimental biology with computational and bioinformatic approaches.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My PhD research focused on the interaction between **hypoxia, reactive oxygen species (ROS), and plant immunity**, particularly the regulation of **RBOHD-mediated signalling in *Arabidopsis thaliana***.
+
+## 🔬 Research interests
+
+- 🌱 Plant molecular biology
+- 🧬 Plant immunity and stress signalling
+- ⚡ Reactive oxygen species (ROS) signalling
+- 🌊 Hypoxia and flooding responses
+- 🧫 Molecular genetics and CRISPR/Cas
+- 💻 Bioinformatics
+- 📊 Single-cell RNA-seq and ATAC-seq
+- 🧬 Multi-omics data analysis
+- 🔗 Gene regulatory networks
+
+## 💻 Computational skills
+
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## 🧪 Experimental background
+
+- Arabidopsis thaliana - Brassica napus - Marchantia polymorpha
+- Plant–pathogen interactions
+- Hypoxia treatments
+- ROS measurements
+- Gene expression analysis
+- Protein analysis
+- Molecular cloning
+- Confocal microscopy
+
+## 🔎 Current interests
+
+I'm particularly interested in integrating **wet-lab biology and computational approaches** to investigate:
+
+> **How plants perceive environmental changes and translate them into transcriptional, chromatin and signalling responses.**
+
+I'm currently expanding my skills in **bioinformatics, single-cell multi-omics, regulatory genomics and reproducible computational workflows**.
+
+## 📚 Selected publications
+
+- **Hypoxia represses pattern-triggered immune responses in Arabidopsis**  
+  *Plant Physiology* (2024)
+
+- **New Insights into the Connections between Flooding/Hypoxia Response and Plant Defenses against Pathogens**  
+  *Plants* (2024)
+
+---
+
+### 🧬 From molecules to networks to plant responses 🌱

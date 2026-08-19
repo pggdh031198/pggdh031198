@@ -9,16 +9,18 @@ My PhD research focused on the interaction between **hypoxia, reactive oxygen sp
 <h3 align="left">Connect with me</h3>
 
 <p align="left">
-  <a href="https://scholar.google.es/citations?view_op=list_works&hl=es&user=lSqf5M0AAAAJ" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlescholar" alt="Google Scholar" width="40" height="40"/>
+  <a href="https://scholar.google.es/citations?view_op=list_works&hl=es&user=lSqf5M0AAAAJ">
+    <img src="https://cdn.simpleicons.org/googlescholar" width="40" height="40" alt="Google Scholar"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pablo-garcia-plantresearch" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="40" height="40"/>
+
+  <a href="https://www.linkedin.com/in/pablo-garcia-plantresearch">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://orcid.org/0009-0002-1170-9990" target="_blank">
-    <img src="https://cdn.simpleicons.org/orcid" alt="ORCID" width="40" height="40"/>
+
+  <a href="https://orcid.org/0009-0002-1170-9990">
+    <img src="https://cdn.simpleicons.org/orcid" width="40" height="40" alt="ORCID"/>
   </a>
 </p>
 

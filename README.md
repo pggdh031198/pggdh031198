@@ -56,6 +56,13 @@ Mooney, B. C., **Garcia, P.†**, Singh, S. K.†, & Graciet, E. (2026).  <br>
 *Plant Direct*, **10**(3), e70158. https://doi.org/10.1002/pld3.70158  <br>
 <sub>† Equal contribution.</sub>
 
+### 🎓 PhD Thesis
+
+- **García González de Heredia, P. (2025).**  
+  [**Unravelling the role of RBOHD in Hypoxia-mediated regulation of plant immune responses**](https://mural.maynoothuniversity.ie/id/eprint/21678/)  
+  *PhD Thesis, National University of Ireland Maynooth.*  
+  <sub>📖 Open access — full thesis available for download.</sub>
+
 ## 📚 Review publications
 
 García, P.†, Singh, S.†, & Graciet, E. (2024). <br>

@@ -58,10 +58,9 @@ Mooney, B. C., **Garcia, P.†**, Singh, S. K.†, & Graciet, E. (2026).  <br>
 
 ### 🎓 PhD Thesis
 
-- **García González de Heredia, P. (2025).**  
-  [**Unravelling the role of RBOHD in Hypoxia-mediated regulation of plant immune responses**](https://mural.maynoothuniversity.ie/id/eprint/21678/)  
+- **García, P. (2025).** <br>
+  [**Unravelling the role of RBOHD in Hypoxia-mediated regulation of plant immune responses**](https://mural.maynoothuniversity.ie/id/eprint/21678/)  <br>
   *PhD Thesis, National University of Ireland Maynooth.*  
-  <sub>📖 Open access — full thesis available for download.</sub>
 
 ## 📚 Review publications
 

@@ -48,20 +48,20 @@ I'm currently expanding my skills in **bioinformatics, single-cell multi-omics, 
 
 Mooney, B. C.†, Doorly, C. M.†, Mantz, M., García, P., Huesgen, P. F., & Graciet, E. (2024).
 **Hypoxia represses pattern-triggered immune responses in Arabidopsis.**
-*Plant Physiology*, **196**(13). https://doi.org/10.1093/plphys/kiae432
-† Indicates equal contribution.
+*Plant Physiology*, **196**(13). https://doi.org/10.1093/plphys/kiae432 <br>
+<sub>† Equal contribution.</sub>
 
 Mooney, B. C., **Garcia, P.†**, Singh, S. K.†, & Graciet, E. (2026).  
 **Functional Divergence of the Arg/N-Degron Pathway Between the Crop *Brassica rapa* and the Model Plant *Arabidopsis thaliana*.**  
-*Plant Direct*, **10**(3), e70158. https://doi.org/10.1002/pld3.70158  
-† Indicates equal contribution.
+*Plant Direct*, **10**(3), e70158. https://doi.org/10.1002/pld3.70158  <br>
+<sub>† Equal contribution.</sub>
 
 ## 📚 Review publications
 
 García, P.†, Singh, S.†, & Graciet, E. (2024). 
 **New Insights into the Connections between Flooding/Hypoxia Response and Plant Defenses against Pathogens.**
-*Plants*, **13**(16), 2176. https://doi.org/10.3390/plants13162176
-† Indicates equal contribution.
+*Plants*, **13**(16), 2176. https://doi.org/10.3390/plants13162176 <br>
+<sub>† Equal contribution.</sub>
 
 ---
 

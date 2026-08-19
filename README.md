@@ -6,6 +6,22 @@ I am a researcher interested in understanding how plants integrate **environment
 
 My PhD research focused on the interaction between **hypoxia, reactive oxygen species (ROS), and plant immunity**, particularly the regulation of **RBOHD-mediated signalling in *Arabidopsis thaliana***.
 
+<h3 align="left">Connect with me</h3>
+
+<p align="left">
+  <a href="https://scholar.google.es/citations?view_op=list_works&hl=es&user=lSqf5M0AAAAJ" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlescholar" alt="Google Scholar" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pablo-garcia-plantresearch" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://orcid.org/0009-0002-1170-9990" target="_blank">
+    <img src="https://cdn.simpleicons.org/orcid" alt="ORCID" width="40" height="40"/>
+  </a>
+</p>
+
 ## 🔬 Research interests
 
 -  Plant molecular biology

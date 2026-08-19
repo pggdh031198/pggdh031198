@@ -8,15 +8,15 @@ My PhD research focused on the interaction between **hypoxia, reactive oxygen sp
 
 ## 🔬 Research interests
 
-- 🌱 Plant molecular biology
-- 🧬 Plant immunity and stress signalling
-- ⚡ Reactive oxygen species (ROS) signalling
-- 🌊 Hypoxia and flooding responses
-- 🧫 Molecular genetics and CRISPR/Cas
-- 💻 Bioinformatics
-- 📊 Single-cell RNA-seq and ATAC-seq
-- 🧬 Multi-omics data analysis
-- 🔗 Gene regulatory networks
+-  Plant molecular biology
+-  Plant immunity and stress signalling
+-  Reactive oxygen species (ROS) signalling
+-  Hypoxia and flooding responses
+-  Molecular genetics and CRISPR/Cas
+-  Bioinformatics
+-  Single-cell RNA-seq and ATAC-seq
+-  Multi-omics data analysis
+-  Gene regulatory networks
 
 ## 💻 Computational skills
 
@@ -24,7 +24,6 @@ My PhD research focused on the interaction between **hypoxia, reactive oxygen sp
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 🧪 Experimental background
 
@@ -45,13 +44,24 @@ I'm particularly interested in integrating **wet-lab biology and computational a
 
 I'm currently expanding my skills in **bioinformatics, single-cell multi-omics, regulatory genomics and reproducible computational workflows**.
 
-## 📚 Selected publications
+## 📚 Research publications
 
-- **Hypoxia represses pattern-triggered immune responses in Arabidopsis**  
-  *Plant Physiology* (2024)
+Mooney, B. C.†, Doorly, C. M.†, Mantz, M., García, P., Huesgen, P. F., & Graciet, E. (2024).
+**Hypoxia represses pattern-triggered immune responses in Arabidopsis.**
+*Plant Physiology*, **196**(13). https://doi.org/10.1093/plphys/kiae432
+† Indicates equal contribution.
 
-- **New Insights into the Connections between Flooding/Hypoxia Response and Plant Defenses against Pathogens**  
-  *Plants* (2024)
+Mooney, B. C., **Garcia, P.†**, Singh, S. K.†, & Graciet, E. (2026).  
+**Functional Divergence of the Arg/N-Degron Pathway Between the Crop *Brassica rapa* and the Model Plant *Arabidopsis thaliana*.**  
+*Plant Direct*, **10**(3), e70158. https://doi.org/10.1002/pld3.70158  
+† Indicates equal contribution.
+
+## 📚 Review publications
+
+García, P.†, Singh, S.†, & Graciet, E. (2024). 
+**New Insights into the Connections between Flooding/Hypoxia Response and Plant Defenses against Pathogens.**
+*Plants*, **13**(16), 2176. https://doi.org/10.3390/plants13162176
+† Indicates equal contribution.
 
 ---
 

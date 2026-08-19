@@ -9,19 +9,11 @@ My PhD research focused on the interaction between **hypoxia, reactive oxygen sp
 <h3 align="left">Connect with me</h3>
 
 <p align="left">
-  <a href="https://scholar.google.es/citations?view_op=list_works&hl=es&user=lSqf5M0AAAAJ">
-    <img src="https://cdn.simpleicons.org/googlescholar" width="40" height="40" alt="Google Scholar"/>
-  </a>
+  <a href="https://scholar.google.es/citations?view_op=list_works&hl=es&user=lSqf5M0AAAAJ"><img src="https://cdn.simpleicons.org/googlescholar" width="40" height="40" alt="Google Scholar"/></a>
   &nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/pablo-garcia-plantresearch">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.linkedin.com/in/pablo-garcia-plantresearch"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
-
-  <a href="https://orcid.org/0009-0002-1170-9990">
-    <img src="https://cdn.simpleicons.org/orcid" width="40" height="40" alt="ORCID"/>
-  </a>
+  <a href="https://orcid.org/0009-0002-1170-9990"><img src="https://cdn.simpleicons.org/orcid" width="40" height="40" alt="ORCID"/></a>
 </p>
 
 ## 🔬 Research interests
@@ -35,16 +27,6 @@ My PhD research focused on the interaction between **hypoxia, reactive oxygen sp
 -  Single-cell RNA-seq and ATAC-seq
 -  Multi-omics data analysis
 -  Gene regulatory networks
-
-<h3 align="left">Connect with me</h3>
-
-<p align="left">
-  <a href="https://scholar.google.es/citations?view_op=list_works&hl=es&user=lSqf5M0AAAAJ"><img src="https://cdn.simpleicons.org/googlescholar" width="40" height="40" alt="Google Scholar"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pablo-garcia-plantresearch"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;
-  <a href="https://orcid.org/0009-0002-1170-9990"><img src="https://cdn.simpleicons.org/orcid" width="40" height="40" alt="ORCID"/></a>
-</p>
 
 ## 💻 Computational skills
 
